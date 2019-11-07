@@ -1,0 +1,30 @@
+.card
+{
+    margin-top:15%;
+}
+.card:hover
+    {
+cursor: all-scroll;
+  box-shadow: 4px 4px #888888;    
+}
+.card
+{
+    width:300px;
+    height:550px;
+}
+.card-body p
+{
+font-size:12px;
+color:#333;
+}
+.card-body
+{
+margin-top:10px;
+
+}
+.card-text.question-font
+{
+font-size:16px;
+font-weight:700;
+
+}
